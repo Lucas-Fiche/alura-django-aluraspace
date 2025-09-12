@@ -1,0 +1,26 @@
+# Ambientes Virtuais
+/.venv
+/venv
+/env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local
+*.sqlite3
+db.sqlite3
+
+# Arquivos de configuração de IDEs (como VS Code)
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependências do Node (caso use no front-end)
+node_modules/
+
+# Arquivos de variáveis de ambiente
+.env
