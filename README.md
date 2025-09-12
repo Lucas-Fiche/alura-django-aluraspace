@@ -55,7 +55,7 @@ Siga os passos abaixo para rodar o Alura Space em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Lucas-Fiche/alura-django-aluraspace.git](https://github.com/Lucas-Fiche/alura-django-aluraspace.git)
+    git clone https://github.com/Lucas-Fiche/alura-django-aluraspace.git (https://github.com/Lucas-Fiche/alura-django-aluraspace.git)
     cd alura-django-aluraspace
     ```
 
